@@ -1,0 +1,420 @@
+@media (min-width: 768px) and (max-width: 1191px){
+	.header-text {
+	    width: 60%;
+	}
+	.product-details .more-product .img-wrapper .img {
+	    height: 120px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	.our-product .product-gallery .photos .top {
+	  margin-bottom: unset;
+	}
+	.our-product .product-gallery .photos .img-wrapper{
+		margin: 5px;
+		width: 310px;
+	}
+	.our-product .product-gallery .photos .bottom {
+	  margin-top: unset;
+	}
+	.img-double{
+		display: inline;
+	}
+	.img-double .img-wrapper{
+	  margin: unset;
+	}
+	.img-double .img-wrapper:first-child{
+	  margin-left: unset;
+	}
+	.img-double .img-wrapper:last-child{
+	  margin-right: unset;
+	}
+	.amount-box {
+	    width: 60%;
+	}
+	.service-body .single-srvc .img {
+	    height: 70px;
+	    width: 70px;
+	}
+	.service-body .single-srvc .txt {
+	    margin-left: 80px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	header {
+	    padding: 20px 0px;
+	}
+	header .site-logo img {
+	    max-width: 140px;
+	}
+	header .bell {
+	    font-size: 24px;
+	    margin-right: 25px;
+	}
+	header .bell span.counter {
+	    width: 20px;
+	    height: 20px;
+	    font-size: 9px;
+	    line-height: 16px;
+	}
+	.toggle-nav .site-logo img{
+		opacity: 0;
+		transition: all 0.3s;
+	}
+	nav{
+		width: 100%;
+	}
+	nav ul {
+	    margin-top: 90px;
+	}
+	.header-text {
+	    left: 0%;
+	    top: 30%;
+	    width: 100%;
+	    padding: 15px;
+	}
+	.header-text h2 {
+	    color: #fff;
+	}
+	.header-text p {
+	    color: #ffffff;
+	}
+	.scrolled header {
+	    padding: 10px 0;
+	}
+	.same-heading {
+	    font-size: 40px;
+	}
+	.section-heading p {
+	    font-size: 13px;
+	}
+	.service-body .single-srvc .img {
+		height: 60px;
+		width: 60px;
+	}
+	.service-body .single-srvc .txt {
+	    margin-left: 70px;
+	}
+	.service-body .single-srvc .txt h2 {
+	    font-size: 14px;
+	}
+	.service-body .single-srvc .txt p {
+	    font-size: 12px;
+	}
+	.service-body .single-srvc .txt label {
+	    font-size: 14px;
+	}
+	.service-body {
+	    padding: 30px 0 0;
+	}
+	.product-details .product-img {
+	    height: 250px;
+	}
+	.buynow-popup .modal-content {
+	    width: 100%;
+	}
+	.modal-body{
+		padding: 12px;
+	}
+	.buynow-popup .heading {
+	    font-size: 14px;
+	    margin-bottom: 8px;
+	}
+	.buynow-popup .order-details .basic-details input.form-control {
+	    font-size: 14px;
+	    padding: 4px 0;
+	}
+	.buynow-popup .choose-option .single-choosen {
+	    height: 60px;
+	    width: 60px;
+	}
+	.buynow-popup .choose-option .single-choosen label i {
+	    font-size: 22px;
+	}
+	.buynow-popup .choose-option .single-choosen label h4 {
+	    font-size: 12px;
+	    margin-top: 0px;
+	}
+	.buynow-popup .choose-option .single-choosen label span.checkmark{
+		padding: 12px 0;
+	}
+	.buynow-popup .sub-heading {
+	    font-size: 14px;
+	}
+	.buynow-popup .order-details .payment-method input.form-control {
+	    font-size: 13px;
+	    padding: 6px 10px;
+	}
+	.service-details .single-service .product-img {
+	    height: 150px;
+	}
+	.sign-up .section-body .input-field p.signup-link {
+	    margin: 15px 0 0 0;
+		position: unset;
+	}
+	.sign-up .section-body .input-field h2 {
+	    font-size: 38px;
+	}
+	.sign-up .section-body .input-field .logo {
+	    margin: 20px 0 10px;
+	}
+	.sign-up .section-body .img {
+	    height: 270px;
+	}
+	.my-account .profile-details .profile i {
+	    color: rgba(255, 255, 255, 0.5);
+	    opacity: 1;
+	}
+	.buynow-popup .payment-details .status-type h3 {
+	    font-size: 13px;
+	    font-weight: 600;
+	}
+	#order-details .service-body .single-srvc, 
+	#class-details .service-body .single-srvc,
+	#appointment-details .service-body .single-srvc{
+	    padding: 0;
+	}
+	#class-details .service-body .warpper,
+	#appointment-details .service-body .warpper {
+	    padding: 0px;
+	}
+	.my-account .profile-details .details input.form-control{
+		font-size: 13px;
+	}
+	.header-bg{
+		height: 600px;
+	}
+	.our-product .product-gallery .photos .top {
+	  margin-bottom: unset;
+	}
+	.our-product .product-gallery .photos .img-wrapper{
+		margin: 5px;
+	}
+	.our-product .product-gallery .photos .bottom {
+	  margin-top: unset;
+	}
+	.img-double{
+		display: inline;
+	}
+	.img-double .img-wrapper{
+	  margin: unset;
+	}
+	.img-double .img-wrapper:first-child{
+	  margin-left: unset;
+	}
+	.img-double .img-wrapper:last-child{
+	  margin-right: unset;
+	}
+	.payment-page .heading{
+		padding: 10px 15px;
+	}
+	.payment-page .heading h2 {
+	    font-size: 14px;
+	}
+	.product-details {
+	    padding: 90px 0 20px;
+	}
+	footer .copyright p {
+	    font-size: 12px;
+	}
+	.product-details .border, .product-details .product-txt .name-price label {
+	    width: 100% !important;
+	}
+	.amount-box {
+	    width: 70%;
+	}
+	.confirm-order .qr-code {
+	    width: 70%;
+	}
+	.service-details .date-time .class-timing, .service-details .date-time .time-tag {
+	    margin-top: 15px;
+	}
+	.buynow-popup .spc-box .payment-details{
+	  margin-bottom: 15px;
+	  border-bottom: 1px solid #e5e5e5;
+	  padding-bottom: 5px;
+	}
+}
+
+@media screen and (max-width: 550px){
+	.home-popup .modal-header h4 {
+		font-size: 14px;
+		font-weight: 500;
+	}
+	.home-popup .choose-option .single-choosen label .checkmark {
+	    height: 70px;
+	    width: 70px;
+	    line-height: 84px;
+	}
+	.home-popup .choose-option .single-choosen label .checkmark i {
+	    font-size: 34px;
+	}
+	.home-popup .choose-option .single-choosen label h4 {
+	    font-size: 10px;
+	    margin-top: -10px;
+	}
+	.home-popup .modal-body{
+		padding: 10px;
+	}
+	.home-popup .modal-header {
+	    padding: 6px 15px;
+	}
+	.header-text h2 {
+	    font-size: 55px;
+	    color: #fff;
+	    line-height: 32px;
+	    margin-bottom: 10px;
+	}
+	.header-text p {
+	    color: #ffffff;
+	    font-size: 14px;
+	    line-height: 18px;
+	    font-weight: 500;
+	}
+	.service-body .single-srvc .txt h2 {
+	    font-size: 13px;
+	}
+	.our-classes .service-body .single-srvc .txt label {
+	    top: 6px;
+	    font-size: 14px;
+	}
+	.our-classes .service-body .single-srvc .txt ul li {
+	    font-size: 12px;
+	    padding: 1px 0;
+	}
+	.book-appointment h2 {
+	    font-size: 13px;
+	}
+	.book-appointment button{
+		padding: 7px 10px;
+		font-size: 11px;
+	}
+	.book-appointment .ad-strip {
+	    padding: 10px 0;
+	}
+	.service-details .single-service .product-img {
+	    height: 180px;
+	}
+
+	.add-service-modal .service-body .single-srvc .img {
+	    height: 60px;
+	    width: 60px;
+	}
+	.add-service-modal .service-body .single-srvc .txt {
+	    margin-left: 70px;
+	}
+	.payment-page .choose-option .single-choosen label .checkmark {
+	    border-radius: 8px;
+	    height: 70px;
+	    width: 70px;
+	    line-height: 84px;
+	}
+	.payment-page .choose-option .single-choosen label .checkmark i {
+	    font-size: 32px;
+	}
+	.sign-up .section-body .img {
+	    height: 230px;
+	}
+	.sign-up .section-body {
+	    padding: 10px;
+	}
+	.sign-up .section-body .input-field .logo img {
+	    max-width: 120px;
+	}
+	.my-account .profile-details .profile {
+	    width: 120px;
+	    height: 120px;
+	    top: -54px;
+	}
+	.my-account .profile-details {
+	    margin-top: 55px;
+	    padding: 100px 15px 0px;
+	}
+	.my-account .profile-tabs .nav-tabs .nav-item{
+		width: 100%;
+	}
+	.my-account .profile-tabs .nav-tabs .nav-link {
+	    display: block;
+	    width: 100%;
+	    margin-bottom: 10px;
+	}
+	footer ul li {
+	    font-size: 13px;
+	}
+	.header-bg{
+		height: 480px;
+	}
+	.service-details .date-time .head-strip{
+		padding: 8px;
+	}
+	.service-details .date-time .head-strip h2 {
+	    font-size: 15px;
+	}
+	.customer-reviews .cr-header {
+		padding: 6px 10px;
+	}
+	.customer-reviews .cr-header h2 {
+	    font-size: 15px;
+	}
+	.customer-reviews .cr-body ul li .img-txt .img {
+	    width: 35px;
+	    height: 35px;
+	}
+	.customer-reviews .cr-body ul li .img-txt .txt label {
+	    font-size: 12px;
+	}
+	.customer-reviews .cr-body ul li .img-txt .txt h5 {
+	    font-size: 14px;
+	    margin-top: -4px;
+	}
+	.customer-reviews .cr-body ul li .star-ratting {
+	    font-size: 12px;
+	}
+	.booking-alert {
+	    font-size: 13px;
+	    font-weight: 500;
+	}
+	.amount-box {
+	    width: 100%;
+	}
+	.confirm-order {
+	    padding: 120px 0 40px;
+	}
+	.confirm-order .thank-mg .img-thnx img {
+	    width: 45px;
+	}
+	.confirm-order .thank-mg .img-thnx .thnx {
+	    padding-left: 5px;
+	    font-size: 15px;
+	}
+	.confirm-order .thank-mg .img-thnx .thnx h5{
+	  font-size: 15px;
+	}
+	.confirm-order .qr-code {
+	    width: 100%;
+	}
+	.confirm-order .qr-code h2 {
+	    font-size: 15px;
+	}
+	.confirm-order .qr-code .qr-code-img img {
+	    width: 110px;
+	}
+	.btn a{
+		padding: 4px 20px;
+	}
+	.confirm-order .thank-mg .btn .bth {
+	    margin-left: 15px;
+	    font-size: 14px;
+	}
+	.sign-up .section-body .input-field .social-login button {
+	    width: 100%;
+	    margin-bottom: 10px;
+	}
+	.sign-up .section-body .input-field .frgt-btn .sign-btn {
+	    padding: 6px 16px;
+	    font-size: 14px;
+	}
+}
+@media (min-width:992px){.modal-lg,.modal-xl{max-width:800px}}@media (min-width:1200px){.modal-xl{max-width:1140px}}
